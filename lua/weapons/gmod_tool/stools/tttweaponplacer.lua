@@ -39,7 +39,7 @@ local weps = {
 
    ttt_playerspawn = {name="Player spawn", snd=nil},
    
-   --Custom Weapons
+   --Koality Custom Weapons
    weapon_ttt_aug = {name="Aug",snd="item_ammo_smg1_ttt"},
    weapon_ttt_famas = {name="Famas",snd="item_ammo_smg1_ttt"},
    weapon_ttt_galil = {name="Galil",snd="item_ammo_smg1_ttt"},
@@ -49,7 +49,8 @@ local weps = {
    weapon_ttt_pump_shotgun = {name="Pump Shotgun", snd="item_box_buckshot_ttt"},
    weapon_ttt_sg552 = {name="SG552",snd = "item_ammo_pistol_ttt"},
    weapon_ttt_smg = {name="SMG",snd="item_ammo_smg1_ttt"},
-   weapon_ttt_revolver ={name="Revolver",snd="models/weapons/w_smg1.mdl"}
+   weapon_ttt_mp5 = {name="MP5",snd="item_ammo_pistol_ttt"},
+   weapon_ttt_dual_elites = {name="Dual Elites",snd="item_ammo_pistol_ttt"}
    
 }
 
@@ -57,7 +58,6 @@ local mdls = {
    weapon_zm_pistol = "models/weapons/w_pist_fiveseven.mdl",
    weapon_zm_shotgun = "models/weapons/w_shot_xm1014.mdl",
    weapon_zm_mac10 = "models/weapons/w_smg_mac10.mdl",
-   weapon_zm_revolver = "models/weapons/w_pist_deagle.mdl",
    weapon_zm_rifle = "models/weapons/w_snip_scout.mdl",
    weapon_zm_sledge = "models/weapons/w_mach_m249para.mdl",
    weapon_zm_molotov = "models/weapons/w_eq_flashbang.mdl",
@@ -78,6 +78,7 @@ local mdls = {
 
    ttt_playerspawn = "models/player.mdl",
    
+   --Koality Custom Weapons
    weapon_ttt_aug = "models/weapons/w_rif_aug.mdl",
    weapon_ttt_famas = "models/weapons/w_rif_famas.mdl",
    weapon_ttt_galil = "models/weapons/w_rif_galil.mdl",
@@ -87,7 +88,9 @@ local mdls = {
    weapon_ttt_pump_shotgun = "models/weapons/w_shot_m3super90.mdl",
    weapon_ttt_sg552 = "models/weapons/w_rif_sg552.mdl",
    weapon_ttt_smg = "models/weapons/w_smg1.mdl",
-   weapon_ttt_revolver = "models/weapons/w_pist_deagle.mdl"
+   weapon_ttt_revolver = "models/weapons/w_pist_deagle.mdl",
+   weapon_ttt_mp5 = "models/weapons/w_smg_mp5.mdl",
+   weapon_ttt_dual_elites = "models/weapons/w_pist_elite.mdl"
    
    
    
