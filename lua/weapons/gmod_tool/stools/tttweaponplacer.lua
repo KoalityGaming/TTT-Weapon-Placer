@@ -88,7 +88,7 @@ local mdls = {
    weapon_ttt_pump_shotgun = "models/weapons/w_shot_m3super90.mdl",
    weapon_ttt_sg552 = "models/weapons/w_rif_sg552.mdl",
    weapon_ttt_smg = "models/weapons/w_smg1.mdl",
-   weapon_ttt_revolver = "models/weapons/w_pist_deagle.mdl",
+   weapon_zm_revolver = "models/weapons/w_pist_deagle.mdl",
    weapon_ttt_mp5 = "models/weapons/w_smg_mp5.mdl",
    weapon_ttt_dual_elites = "models/weapons/w_pist_elite.mdl"
    
